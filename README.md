@@ -14,5 +14,4 @@ C# es uno de los lenguajes de programación más populares en todo, pero pocos a
   * [Immutable-by-default](#immutable-by-default)
   * [Avoid lots of Util classes](#avoid-lots-of-util-classes)
   * [Formatting](#formatting)
-    * [Javadoc](#javadoc)
   * [Streams](#streams)
